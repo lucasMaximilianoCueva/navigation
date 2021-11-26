@@ -1,0 +1,2 @@
+curl -H "Authorization: 563492ad6f9170000100000100ab50c9b47642059b062bd7ac1a7af5" \
+  "https://api.pexels.com/v1/search?query=nature&per_page=1"
